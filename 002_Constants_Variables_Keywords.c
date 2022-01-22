@@ -6,4 +6,4 @@ int main(){
 	// 10 => constant(also know as 'Literals' and it can't be changed)
 	int var = 10;
 	return 0;
-}
+} 
