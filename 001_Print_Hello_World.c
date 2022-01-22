@@ -6,4 +6,4 @@ int main(){
 	// printf() is the built-in functions,that show the output.
 	printf("hello world!"); 
 	return 0;
-}
+} 
