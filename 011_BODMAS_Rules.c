@@ -15,8 +15,8 @@ int main(){
 Exponents, Division, Multiplication, Addition and Subtraction.
 
 Priorirt	Operators
-1st 		()
-2nd			* / %
-3rd			+ -
-4th			=
+1st		()
+2nd		* / %
+3rd		+ -
+4th		=
 */
