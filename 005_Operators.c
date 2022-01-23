@@ -37,11 +37,11 @@ int main(){
 
 	// Assignment Operators :
 	// int var;
-	// var = 10;	Assign
-	// var += 1;	Increments then assign
-	// var -= 1;	Decrements then assign
-	// var *= 2;	Multiplies then assign
-	// var /= 2;	Divides then assign
+	// var = 10;		Assign
+	// var += 1;		Increments then assign
+	// var -= 1;		Decrements then assign
+	// var *= 2;		Multiplies then assign
+	// var /= 2;		Divides then assign
 	// %=			Modulus then assign
 	// <<=			Left shift and assign
 	// >>=			Right shift and assign
@@ -50,7 +50,7 @@ int main(){
 	// |=			Bitwise inclusive OR and assign
 	
 	// Conditional Operator : 
-	// ? :          Conditional Expression
+	// ? :			Conditional Expression
 
 	// Special Operators : 
 	// sizeof()		Returns the size of a memory location.
