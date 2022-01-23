@@ -11,8 +11,8 @@ int main(){
 	int mod = a % b; // Modulus
 
 	//Increment & Decrement Operators :
-	// a++;
-	// b--;
+	// a++;			Increment by 1
+	// b--;			Decrement by 1
 
 	// Relational Operators :
 	// a == b;		Is equal to
@@ -53,8 +53,8 @@ int main(){
 	// ? :          Conditional Expression
 
 	// Special Operators : 
-	// sizeof()	    Returns the size of a memory location.
-    // &            Returns the address of a memory location.
-    // *	        Pointer to a variable.
+	// sizeof()		Returns the size of a memory location.
+	// &			Returns the address of a memory location.
+	// *			Pointer to a variable.
 	return 0;
 }
