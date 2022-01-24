@@ -9,15 +9,15 @@ int main(){
 
 	if (x == a){
 		if (y == b)
-			printf("a and b both is match ");
+			printf("a and b both is match \n");
 		else 
-			printf("b is not match");
+			printf("only a is match \n");
 	}
 	else{
 		if (y == b)
-			printf("only b is match");
+			printf("only b is match \n");
 		else 
-			printf("a and b both not match");
+			printf("a and b both not match \n");
 	}
 	return 0;
 }
