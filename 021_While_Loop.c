@@ -9,6 +9,19 @@ int main(){
 		printf("%d\n",a);
 		// increment loop counter
 		a = a + 1;
+		// increment operator ++
+		// a++; increment by 1
+
+		// decrement operator --
+		// a--; decrement by 1
+
+		// compound assignment operator
+		// a += 1;
+		// a -= 1;
+		// a *= 1;
+		// a /= 1;
+		// a %= 1;
+		
 	}	
 	return 0;
 }
