@@ -35,7 +35,7 @@ int main(){
 	// ^			Binary XOR Operator
 	// |			Binary OR Operator
 
-	// Assignment Operators :
+	// Assignment Operators / Compound assignment operator :
 	// int var;
 	// var = 10;		Assign
 	// var += 1;		Increments then assign
