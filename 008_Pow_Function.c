@@ -9,3 +9,4 @@ int main(){
 	printf("3 to the power 5 is : %d \n",a);
 	return 0;
 }
+
