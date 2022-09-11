@@ -5,7 +5,7 @@
 int main(){
 	int a;
 	// pow(x,y) => x to the power y
-	a=pow(3,5);
+	a = pow(3,5);
 	printf("3 to the power 5 is : %d \n",a);
 	return 0;
 }

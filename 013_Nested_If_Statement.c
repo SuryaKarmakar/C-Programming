@@ -6,7 +6,7 @@ int main(){
 	//Nested If Statement
 	if (a == 10){
 		if (b == 20){
-			printf("Yes a is 10 and b is 20 \n");
+			printf("Yes, a is 10 and b is 20 \n");
 		}
 	}
 	return 0;
