@@ -6,13 +6,16 @@ int main(){
 	printf("Enter your choice [1: c 2: c++ 3: python 4: java ] ");
 	scanf("%d",&choice);
 
+	/* in switch case we can't use any kind's of checking condition like equals to, greater than etc... only int and char allowed even a float 
+	is not allowed */
 	switch (choice){
 		case 1:
 			printf("learn c programming\n");
-			// with out break, if and only any case will be true then, after that case every case should be execute....
-			//so it is importent to put break in every case 
+			// without break, if and only any case will be true then, after that case every case should be execute....
+			// so it is importent to put break in every case...
 			break;
 		case 2:
+			// multiple statements can be execute without a pair of braces...
 			printf("learn c++ programming\n");
 			break;
 		case 3:
