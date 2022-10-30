@@ -4,7 +4,7 @@ int main(){
 	char gender = 'M';
     int age = 15;
 
-	if(gender == 'M'){
+    if(gender == 'M'){
         if (age == 10)
             printf("Your age is 10\n");
         else if (age == 15)
