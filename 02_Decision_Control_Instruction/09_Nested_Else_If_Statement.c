@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-	char gender = 'M';
+    char gender = 'M';
     int age = 15;
 
     if(gender == 'M'){
@@ -21,5 +21,5 @@ int main(){
             printf("your age is 20\n");
     }
     
-	return 0;
+    return 0;
 }
