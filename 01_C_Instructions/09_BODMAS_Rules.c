@@ -12,7 +12,7 @@ int main(){
 }
 
 /* BODMAS is a short form for Brackets, Orders/Of, Division, Multiplication, Addition and Subtraction.it is also known as PEDMAS Parentheses, 
-Exponents, Division, Multiplication, Addition and Subtraction.
+   Exponents, Division, Multiplication, Addition and Subtraction.
 
 Priorirt	Operators
 1st		()
