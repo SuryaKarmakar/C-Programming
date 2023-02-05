@@ -15,7 +15,6 @@ int main(){
         break;
     /* here if input is "lower c" or "upper C" both case will be executed... and we dont use break so if this case execute then, control automatically 
        reaches the next case ... */ 
-    //
     case 'c':
     case 'C':
         // here both case can be share a same body
