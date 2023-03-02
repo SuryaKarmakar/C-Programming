@@ -7,18 +7,18 @@ int main(){
 	// here j is holding the address of i
 	j = &i;
 
-	// &i = address of i (6522)
-	// &j = address of j (6523)
+	// &i = address of i (00001)
+	// &j = address of j (00002)
 	// *(&i) = value of i's address (3)
 	// *j = value of stored address
 
-	printf("Address of i %u\n", &i); 
-	printf("Address of i %u\n", j);
-	printf("Address of j %u\n", &j);
-	printf("Value of j %d\n", j);
-	printf("Value of i %d\n", i);
-	printf("Value of i %d\n", *(&i));
-	printf("Value of i %d\n", *j);
+	printf("Address of i %u\n", &i); // -> 1864496008
+	printf("Address of i %u\n", j); // -> 1864496008
+	printf("Address of j %u\n", &j); // -> 1864496000
+	printf("Value of j %d\n", j); // -> 1864496008
+	printf("Value of i %d\n", i); // -> 3
+	printf("Value of i %d\n", *(&i)); // -> 3
+	printf("Value of i %d\n", *j); // -> 3
 	
 	return 0;
 }
