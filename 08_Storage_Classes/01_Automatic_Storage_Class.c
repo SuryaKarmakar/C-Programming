@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
+int mian (){
 	/*
 		storage - memory.
 		default value - an unpredictable garbage value.
@@ -11,7 +11,7 @@ int main(){
 	printf("the garbage value of a is : %d\n",a);
 
 	auto int i = 1;
-	{	
+	{
 		auto int i = 2;
 		{
 			auto int i = 3;
@@ -20,6 +20,6 @@ int main(){
 		printf("%d\n",i);
 	}
 	printf("%d\n",i);
-	
+
 	return 0;
 }
