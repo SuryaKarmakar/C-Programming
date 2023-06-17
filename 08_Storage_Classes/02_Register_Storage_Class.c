@@ -11,6 +11,6 @@ int main(){
    /* we can't say for sure that it's value would alwayes stored in CPU register, because the number of CPU register are limited, they maybe busy
    doing some other task. in such an event "i" works as auro storage class */
    for(i = 1; i <= 10; i++){
-      printf('%d',i);
+      printf("%d\n",i);
    }
 }
