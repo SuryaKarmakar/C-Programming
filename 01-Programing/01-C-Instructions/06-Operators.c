@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int main(){
-	//Arithmetic Operators :
+	// Arithmetic Operators :
 	int a = 20;           
 	int b = 10;
 	int add = a + b; // Addition
@@ -10,7 +10,7 @@ int main(){
 	float div = a / b; // Division
 	int mod = a % b; // Modulus
 
-	//Increment & Decrement Operators :
+	// Increment & Decrement Operators :
 	// a++;			Increment by 1
 	// b--;			Decrement by 1
 

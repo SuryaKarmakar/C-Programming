@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-	/* code here*/
+	/* code here */
 	return 0;
 } 

@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int main(){
     // int -> As the name suggests, an int variable is used to store an integer.

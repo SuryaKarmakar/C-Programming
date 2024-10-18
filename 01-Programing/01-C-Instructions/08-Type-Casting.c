@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int main(){
-    //Implicit Conversion (Also known as ‘automatic type conversion’)
+    // Implicit Conversion (Also known as ‘automatic type conversion’)
     int x = 10;   
     char y = 'a';
   
@@ -9,7 +9,7 @@ int main(){
     x = x + y;
     printf("Implicitly type Conversion %d\n",x);
 
-    /*Explicit Type Conversion (This process is also called type casting and it is user defined. Here the user can type cast the result to make it of
+    /* Explicit Type Conversion (This process is also called type casting and it is user defined. Here the user can type cast the result to make it of
     a particular data type.) */
     char ch = 'a';
     int in = (int)ch + 1;
