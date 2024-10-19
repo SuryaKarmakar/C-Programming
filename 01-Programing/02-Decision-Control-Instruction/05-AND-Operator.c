@@ -9,5 +9,5 @@ int main(){
 		printf("You are eligible to join\n");
 	else
 		printf("you are not eligible to join\n");
-return 0;
+	return 0;
 }

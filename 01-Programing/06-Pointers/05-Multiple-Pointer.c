@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int main(){
     // here 'j' is a pointer to an int, whereas 'k' is a pointer to an integer pointer. 'k' can hold a address of another pointer variable...

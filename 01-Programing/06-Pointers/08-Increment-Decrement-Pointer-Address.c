@@ -14,10 +14,10 @@ int main(){
     printf("address of k is : %d\n", z);
 
     puts("[+]increment pointer variables x, y, z ");
-    //every time we increment and decrement our pointer variables, it always points to the next location of its data type.
-    x++; //now x is locate xxx10 + 4 (int=4 byte) => xxx14
-    y--; //now y is locate xxx20 - 4 (float=4 byte) => xxx16
-    z++; //now z is locate xxx30 + 1 (char=1 byte) => xxx31
+    // every time we increment and decrement our pointer variables, it always points to the next location of its data type.
+    x++; // now x is locate xxx10 + 4 (int=4 byte) => xxx14
+    y--; // now y is locate xxx20 - 4 (float=4 byte) => xxx16
+    z++; // now z is locate xxx30 + 1 (char=1 byte) => xxx31
 
     printf("address of i is : %d\n", x);
     printf("address of j is : %d\n", y);

@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 #define PI 3.1428
 // do not give a space between the macro template and its argument, no space between AREA and (x)

@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int main(){
     /* both signed and unsigned char occupy 1 byte. signed char has a range from -128 to +127 and unsigned char has a range from 0 to 255. */

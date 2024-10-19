@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int x = 20;
 extern int y = 20;

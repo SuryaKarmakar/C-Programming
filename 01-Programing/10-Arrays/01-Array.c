@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int main(){
     // an array is a collection of similar elements. either all are int, float or char.

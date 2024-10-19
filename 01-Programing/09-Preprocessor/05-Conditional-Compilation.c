@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 #define NAME
 #define DATA 30

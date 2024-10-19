@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int main(){
     /*  float - a float can occupies 4 bytes in memory and range from -3.4e38 to +3.4e38
