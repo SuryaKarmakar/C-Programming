@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
-	/* code here */
-	return 0;
+int main() {
+    /* code here */
+    return 0;
 }
