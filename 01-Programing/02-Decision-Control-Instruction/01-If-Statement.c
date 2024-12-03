@@ -2,6 +2,7 @@
 
 int main() {
     int a = 10;
+
     // if (this condition is true)
     if (a == 10)
         // then this statement is executed

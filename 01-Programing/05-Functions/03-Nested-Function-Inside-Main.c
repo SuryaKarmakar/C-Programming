@@ -1,11 +1,13 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
+int main() {
     printf("Main");
+
     // a function cant be defined in another function, but you can do inside main() function...
-    void func(){
+    void func() {
         printf("Func");
     }
     func();
-    return 1;
+
+    return 0;
 }

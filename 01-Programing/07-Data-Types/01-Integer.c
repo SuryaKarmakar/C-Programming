@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
+int main() {
     /*
         short - its at least 2 bytes big and its never bigger than int.
         int - its can be 2 or 4 bytes, 2 byte int can take value form -32768 to +32767, whereas a 4 byte int can take values from -2147483648 to +2147483647.

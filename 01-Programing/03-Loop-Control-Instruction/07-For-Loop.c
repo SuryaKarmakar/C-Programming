@@ -1,10 +1,12 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
-	int i;
-	// for(initialize counter, test counter, increment counter)
-	for(i = 1; i <= 10; i++){
-		printf("%d\n",i);
-	}
-	return 0;
+int main() {
+    int i;
+
+    // for(initialize counter, test counter, increment counter)
+    for (i = 1; i <= 10; i++) {
+        printf("%d\n", i);
+    }
+
+    return 0;
 }
