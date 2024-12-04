@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main() {
     float radius, area, pi = 3.14;
 
     printf("Redius : ");
@@ -9,5 +9,5 @@ int main(){
     area = pi * radius * radius;
     printf("Area = %f", area);
 
-    return 0; 
+    return 0;
 }
